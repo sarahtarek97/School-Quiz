@@ -1,7 +1,7 @@
 
 
 Backend Node-JS
-Fatura
+School Quiz
 
 This simple project to show some basics on each and every project that show us how to sign up into a website and how I can go through all it’s pages which I mean APIs so I can use it in a secure way to have the max benefit from what this website offers
 
